@@ -6,7 +6,7 @@ from aiogram.filters import Command
 from aiogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 from config import SOURCES, MAX_ARTS
 
-BOT_TOKEN = os.getenv("BOT_TOKEN")
+BOT_TOKEN = os.getenv("8554158049:AAFO5a1UdZu5gVo6VdUQJr0kzPHZIUKurn8")
 
 bot = Bot(token=BOT_TOKEN)
 dp = Dispatcher()
