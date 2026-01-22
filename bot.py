@@ -8,7 +8,7 @@ from config import SOURCES, MAX_ARTS
 
 BOT_TOKEN = os.getenv("8554158049:AAFO5a1UdZu5gVo6VdUQJr0kzPHZIUKurn8")
 
-bot = Bot(token=8554158049:AAFO5a1UdZu5gVo6VdUQJr0kzPHZIUKurn8)
+bot = Bot(token="8554158049:AAFO5a1UdZu5gVo6VdUQJr0kzPHZIUKurn8")
 dp = Dispatcher()
 
 # ---------- storage ----------
